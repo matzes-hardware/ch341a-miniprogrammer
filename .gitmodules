@@ -1,0 +1,3 @@
+[submodule "linux/i2c-ch341-module"]
+	path = linux/i2c-ch341-module
+	url = https://github.com/gschorcht/i2c-ch341-usb
